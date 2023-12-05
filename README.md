@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finnbuck
-- 👀 I’m interested in discrete mathematics and math applications in computer science.
+- 👀 I’m interested in math, philosophy and history and the intersection of all these.
 - 🌱 I’m currently learning more advanced git commands in the Pro Git manual.
 
 <!---
